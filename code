@@ -8,8 +8,8 @@ from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 
 # Define paths to your dataset
-train_dir = "path/to/train_dataset"
-test_dir = "path/to/test_dataset"
+train_dir = "C:/Users/Shiva kumar/Downloads/archive/RiceLeafsDisease/train"
+test_dir = "C:/Users/Shiva kumar/Downloads/archive/RiceLeafsDisease/test"
 
 # Image dimensions
 img_width, img_height = 150, 150
